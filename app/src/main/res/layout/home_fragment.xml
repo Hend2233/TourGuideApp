@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:background="@color/backgroundColor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+            android:id="@+id/the_main_content"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <RelativeLayout
+                android:elevation="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <!-- Photo by Nik Younie on Unsplash the temple image -->
+            <ImageView
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/nik_younie_77254_unsplash"
+                    android:layout_width="match_parent"
+                    android:layout_height="230dp"
+                    android:id="@+id/imageView"/>
+
+            <TextView
+                    android:shadowRadius="2.5"
+                    android:shadowDy="4"
+                    android:shadowDx="4"
+                    android:shadowColor="#7F000000"
+                    android:text="@string/egypt"
+                    android:textSize="50sp"
+                    android:textColor="#FFF"
+                    android:fontFamily="serif"
+                    android:id="@+id/country_name"
+                    android:layout_marginTop="50dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:targetApi="jelly_bean"/>
+
+            <TextView
+                    android:shadowRadius="2.5"
+                    android:shadowDy="4"
+                    android:shadowDx="4"
+                    android:shadowColor="#7F000000"
+                    android:text="@string/cairo"
+                    android:textSize="50sp"
+                    android:textColor="#FFF"
+                    android:fontFamily="serif"
+                    tools:targetApi="jelly_bean"
+                    android:layout_below="@id/country_name"
+                    android:layout_marginTop="5dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+        </RelativeLayout>
+
+        <android.support.v7.widget.CardView
+                app:cardCornerRadius="8dp"
+                style="@style/CardViewStyle"
+                android:elevation="6dp"
+                android:id="@+id/hotels_card">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        style="@style/ImageStyle"
+                        android:src="@drawable/steigen_berger_hotel"
+                        android:id="@+id/image_card"/>
+
+                <TextView
+                        android:text="@string/hotels"
+                        style="@style/PlacesCategoryStyle"
+                        android:layout_alignBottom="@+id/image_card"
+                        android:layout_alignParentLeft="true"/>
+
+
+                <TextView
+                        android:text="@string/hotel"
+                        style="@style/ShortInfoStyle"
+                        android:layout_below="@id/image_card"/>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+                app:cardCornerRadius="8dp"
+                style="@style/CardViewStyle"
+                android:elevation="6dp"
+                android:id="@+id/restaurants_card">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        style="@style/ImageStyle"
+                        android:src="@drawable/studio_restaurant_in_azhar_garden"
+                        android:id="@+id/image_restaurant_card"/>
+
+                <TextView
+                        android:text="@string/restaurants"
+                        style="@style/PlacesCategoryStyle"
+                        android:layout_alignBottom="@id/image_restaurant_card"
+                        android:layout_alignParentLeft="true"/>
+
+                <TextView
+                        android:text="@string/restaurant"
+                        style="@style/ShortInfoStyle"
+                        android:layout_below="@id/image_restaurant_card"/>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+                app:cardCornerRadius="8dp"
+                style="@style/CardViewStyle"
+                android:elevation="6dp"
+                android:id="@+id/parks_card">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        style="@style/ImageStyle"
+                        android:src="@drawable/orman_park"
+                        android:id="@+id/image_parks_card"/>
+
+                <TextView
+                        android:text="@string/parks"
+                        style="@style/PlacesCategoryStyle"
+                        android:layout_alignBottom="@id/image_parks_card"
+                        android:layout_alignParentLeft="true"/>
+
+                <TextView
+                        android:text="@string/park"
+                        style="@style/ShortInfoStyle"
+                        android:layout_below="@id/image_parks_card"/>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+                app:cardCornerRadius="8dp"
+                style="@style/CardViewStyle"
+                android:layout_marginBottom="20dp"
+                android:elevation="6dp"
+                android:id="@+id/old_cairo_card">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        style="@style/ImageStyle"
+                        android:src="@drawable/giza_pyramids"
+                        android:id="@+id/image_old_cairo_card"/>
+
+                <TextView
+                        android:text="@string/historical_places"
+                        style="@style/PlacesCategoryStyle"
+                        android:layout_alignBottom="@id/image_old_cairo_card"
+                        android:layout_alignParentLeft="true"/>
+
+                <TextView
+                        android:text="@string/historical_place"
+                        style="@style/ShortInfoStyle"
+                        android:layout_below="@id/image_old_cairo_card"/>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>

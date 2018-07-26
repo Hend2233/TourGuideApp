@@ -1,0 +1,170 @@
+<resources>
+
+    <string name="app_name">Tour Guide App</string>
+    <string name="home">Home</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="parks">Parks</string>
+    <string name="cairo">Cairo</string>
+    <string name="historical_places">Historical Places</string>
+    <string name="egypt">EGYPT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="hotel">Cairo has so many hotels \n click and see more!</string>
+    <string name="park">Cairo has so many parks \n click and see more!</string>
+    <string name="restaurant">Cairo has so many restaurants click and see more!</string>
+    <string name="historical_place">Cairo has so many historical places click and see more!</string>
+
+    <string name="osmanly_restaurant">Situated inside the Kempinski Nile Hotel, Osmanly offers guests the chance to dine
+        like a Sultan in this beautiful setting.
+    </string>
+    <string name="osmanly_address">Osmanly, Kempinski Nile Hotel, Ahmed Ragheb Street 12, Cairo, Egypt</string>
+    <string name="osmanly_restaurant_name">Osmanly</string>
+
+    <string name="tabla_restaurant">Tabla Luna</string>
+    <string name="tabla_address">Tabla Luna, 41 Road 218, Digla, Maadi, Cairo, Egypt</string>
+    <string name="tabla_description">For authentic Latin American food in a country very new to
+        this cuisine, go to the much-loved restaurant Tabla Luna.</string>
+
+    <string name="birdcage_restaurant">Birdcage</string>
+    <string name="birdcage_address">Birdcage, InterContinental Hotel, Corniche El Nil, Cairo, Egypt</string>
+    <string name="birdcage_description">Said to be the best Thai restaurant in Egypt, the Birdcage
+        is located inside the Cairo Semiramis InterContinental Hotel.</string>
+
+    <string name="fasahet_somaya">Fasahet Somaya</string>
+    <string name="fasahet_somaya_address">Fasahet Somaya, Corner of Mohammed Mahmoud and Youssef El-Gendy, Cairo, Egypt</string>
+    <string name="fasahet_somaya_description">Fasahet Somaya has been making waves among the Cairo crowd, drawing in visitors with its
+        loyal version of true Egyptian home cooking.</string>
+
+    <string name="zooba_restaurant">Zooba</string>
+    <string name="zooba_address">Zooba, 26th of July Street, Zamalek, Cairo, Egypt</string>
+    <string name="zooba_description">This casual, hole-in-the-wall style restaurant is the perfect spot for a quick lunch or casual dinner.</string>
+
+
+    <string name="andrea_el_mariouteya">Andrea El Mariouteya</string>
+    <string name="andrea_el_mariouteya_address">Andrea El Mariouteya, 59\-60 Mariouteya Canal Road, Cairo, Egypt</string>
+    <string name="andrea_el_mariouteya_description">Andrea El Mariouteya is famous for its barbecued marinated chicken.
+        The restaurant uses a special secret herb blend seemingly impossible to recreate at home.</string>
+
+    <string name="sequoia_restaurant">Sequoia</string>
+    <string name="sequoia_address">Sequoia, 53 Abou El Feda Street, Zamalek, Cairo, Egypt</string>
+    <string name="sequoia_description">With floor-to-ceiling windows offering views out over the water and the rest of the city, Sequoia attracts visitors wishing to enjoy a meal in a laid-back atmosphere.</string>
+
+    <string name="little_swiss_restaurant">Little Swiss Restaurant</string>
+    <string name="little_swiss_address">Little Swiss Restaurant, Street 18 Villa 17 (Corner Street 84), Maadi Sarayat, Cairo, Egypt</string>
+    <string name="little_swiss_description">Run by a lovely Swiss lady, the Little Swiss Restaurant is the best place in Cairo for beautiful raclettes and scrumptious fondues.</string>
+
+    <string name="al_azhar_park">Al Azhar Park</string>
+    <string name="al_azhar_park_time">9AM–11PM</string>
+    <string name="al_azhar_park_address">Salah Salem St, El-Darb El-Ahmar, Cairo Governorate</string>
+    <string name="al_azhar_park_description"> Manicured gardens and lawns with fountains, cafes, restaurants and an open-air theater, plus city views.</string>
+
+    <string name="fustat_park">Fustat Park</string>
+    <string name="fustat_park_address"> Salah Salem, Ad Deyorah, Misr Al Qadimah, Cairo Governorate</string>
+    <string name="fustat_park_time">8AM–9PM</string>
+
+    <string name="el_andalos_park">El Andalos park</string>
+    <string name="el_andalos_park_address">Zamalek, Cairo Governorate</string>
+    <string name="el_andalos_park_time">8AM–12:30AM</string>
+
+    <string name="aquarium_grotto_garden">Aquarium Grotto Garden</string>
+    <string name="aquarium_grotto_garden_address">El Gabalaya St, Al Gabalayah, Zamalek, Giza Governorate</string>
+    <string name="aquarium_grotto_garden_time">9AM–4:30PM</string>
+
+    <string name="safari_park">Safari park</string>
+    <string name="safari_park_address">Al Matar, Imbaba, Giza Governorate</string>
+    <string name="safari_park_description">This is a very suitable park for family outings.
+            It is the second largest park after Al-Azhar Park, which is designed in the country style.</string>
+
+    <string name="orman_park">Orman Park</string>
+    <string name="orman_park_address">Square, Oula, Giza, Giza Governorate</string>
+    <string name="orman_park_time">9am - 4pm</string>
+    <string name="orman_park_description">Founded in the late 19th century, this is oldest park in this list.
+        It is very beautiful destination that is considered as one of the largest botanical gardens
+        in the world.</string>
+
+    <string name="cairo_tower">Cairo Tower</string>
+    <string name="cairo_tower_address">Zamalek, Cairo Governorate</string>
+    <string name="cairo_tower_time">9AM – 1AM</string>
+    <string name="cairo_tower_description">Tower inspired by lotus flowers, made up of 8 million mosaic lozenges, with a revolving restaurant.</string>
+
+    <string name="salah_el_din_al_ayouby_citadel">Salah El Din Al Ayouby Citadel</string>
+    <string name="salah_el_din_al_ayouby_citadel_address">Al Abageyah, Qesm Al Khalifah، Cairo Governorate</string>
+    <string name="salah_el_din_al_ayouby_citadel_time">9AM – 4PM</string>
+    <string name="salah_el_din_al_ayouby_citadel_description">Imposing fortress and wall built by Saladin in the 12th century as protection against the Crusaders.</string>
+
+    <string name="the_hanging_church">The Hanging Church</string>
+    <string name="the_hanging_church_address">Kom Ghorab, Misr Al Qadimah, Cairo Governorate</string>
+    <string name="the_hanging_church_description">Coptic Christian church with a wooden roof in the shape of Noah\'s ark, a 5th-century pulpit and icons.</string>
+
+    <string name="museum_of_modern_gyptian_art">Museum Of Modern Egyptian Art</string>
+    <string name="museum_of_modern_gyptian_art_address">In the Gezira Exhibition Grounds, Opposite the Opera House, Cairo and Nile Delta 11511</string>
+    <string name="museum_of_modern_gyptian_artime">opens at 5:00 PM</string>
+
+    <string name="egyptian_museum_cairo">Egyptian Museum Cairo</string>
+    <string name="egyptian_museum_cairo_address">15 Meret Basha, Ismailia, Qasr an Nile, Cairo Governorate</string>
+    <string name="egyptian_museum_cairo_time">9AM – 5PM</string>
+    <string name="egyptian_museum_cairo_description">Extensive collection of Egyptian artifacts covering 5,000 years, including Tutankhamun\'s treasures.</string>
+
+    <string name="khan_el_khalili"> Khan el-Khalili</string>
+    <string name="khan_el_khalili_address">El-Gamaleya, Qism El-Gamaleya, Cairo Governorate</string>
+    <string name="khan_el_khalili_description">Large souk in the bazaar district selling souvenirs and crafts plus jewelry, clothing and spices.</string>
+
+    <string name="national_military_museum_egypt">National Military Museum Egypt</string>
+    <string name="national_military_museum_egypt_address">Qism El-Khalifa, Cairo Governorate</string>
+    <string name="national_military_museum_egypt_time">8AM – 5PM</string>
+    <string name="national_military_museum_egypt_description">The Egyptian military\'s official history museum offering exhibits on the pharaohs to modern day.</string>
+
+    <string name="museum_of_islamic_art_cairo">Museum of Islamic Art Cairo</string>
+    <string name="museum_of_islamic_art_cairo_address">Ghayt Al Adah, Cairo Governorate 11638</string>
+    <string name="museum_of_islamic_art_cairo_time">9AM – 9PM</string>
+    <string name="museum_of_islamic_art_cairo_description"> Huge Islamic art museum with over 100,000 exhibits spanning history in a grand restored building.</string>
+
+    <string name="egypt_pyramids">Egypt Pyramids</string>
+    <string name="egypt_pyramids_address">Ad Doqi, Giza, Oula, Giza, Giza Governorate 12411</string>
+    <string name="egypt_pyramids_time">9:30AM – 10:15PM</string>
+    <string name="egypt_pyramids_description">the Pyramids are the world’s oldest tourist attraction as
+        they are the only survivors of the Seven Ancient Wonders of the World.</string>
+
+    <string name="al_azhar_mosque">Al-Azhar Mosque</string>
+    <string name="al_azhar_mosque_address">Darb Al Sayegh, El-Darb El-Ahmar, Cairo Governorate, Egypt</string>
+    <string name="al_azhar_mosque_description">This grand structure finished in 972 by Gohar was the first mosque to be built in Cairo
+        and is the most significant building from the Fatmid period.It claims to be one of the world\’s oldest surviving universities.</string>
+
+    <string name="giza_zoo">Giza Zoo</string>
+    <string name="giza_zoo_address">Charles De Gaulle, Oula, Giza, Giza Governorate 12612, Egypt</string>
+    <string name="giza_zoo_time">Opens at 8:30 AM</string>
+    <string name="giza_zoo_description">Zoo specializing in African wildlife, with grottoes, a bridge by Eiffel and natural history museum.</string>
+
+    <string name="sofitel_cairo_nile_el_gezirah">Sofitel Cairo Nile El Gezirah</string>
+    <string name="sofitel_cairo_nile_el_gezirah_address">3 El Thawra Council St Zamalek, Cairo</string>
+    <string name="sofitel_cairo_nile_el_gezirah_description">Located on the banks of the Nile River at the southern tip of quiet El Gezirah island, this 27-story Cairo luxury hotel is within easy reach of the Opera House</string>
+
+    <string name="safir_hotel_cairo">Safir Hotel Cairo</string>
+    <string name="safir_hotel_cairo_address">Orman, El Missaha Square, Giza</string>
+    <string name="safir_hotel_cairo_description">Located in Al Duqqi, this luxury hotel is within 2 mi (3 km) of Cairo University, Cairo Tower, and Egyptian Museum.</string>
+
+    <string name="four_seasons_hotel">Four Seasons Hotel Cairo at Nile Plaza</string>
+    <string name="four_seasons_hotel_address"> 1089 Corniche El Nile, Cairo</string>
+    <string name="four_seasons_hotel_description">This family-friendly hotel is located in the city center, within 1 mi (2 km) of American University of Cairo and Egyptian Museum.</string>
+
+    <string name="grand_nile_tower">Grand Nile Tower</string>
+    <string name="grand_nile_tower_address"> Corniche El Nil, Garden City, Cairo</string>
+    <string name="grand_nile_tower_description">This family-friendly hotel is located in the city center, within 1 mi (2 km) of American University of Cairo, Tahrir Square, and League of Arab States.</string>
+
+    <string name="steigenberger_hotel">Steigenberger Hotel El Tahrir</string>
+    <string name="steigenberger_hotel_address"> 2, Kasr El Nil Street, Cairo</string>
+    <string name="steigenberger_hotel_description">This family-friendly Cairo hotel is located in Downtown Cairo, within 1 mi (2 km) of Tahrir Square, Egyptian Museum, Cairo Tower and Museum</string>
+
+    <string name="intercontinental_hotel">InterContinental Cairo Citystars</string>
+    <string name="intercontinental_hotel_address">Omar Ibn El Khattab Street, Cairo</string>
+    <string name="intercontinental_hotel_description">This family-friendly Cairo hotel is located near the airport, within 3 mi (5 km) of City Stars, Cairo International Stadium and Cairo International Convention</string>
+
+    <string name="kempinski_nile_hotel">Kempinski Nile Hotel Cairo</string>
+    <string name="kempinski_nile_hotel_address">12 Ahmed Ragheb Street, Cairo</string>
+    <string name="kempinski_nile_hotel_description">This family-friendly Cairo hotel is located on the boardwalk, within 1 mi (2 km) of American University of Cairo and Egyptian Museum.</string>
+
+</resources>
